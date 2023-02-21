@@ -2,7 +2,7 @@
 Rough.jsを使って、なでしこ３でキャンバスに手書きっぽい描画をするプラグイン
 
 ## 使い方
-　[なでしこ３貯蔵庫にライブラリとして公開しています。](https://n3s.nadesi.com/id.php?1778)
+　[なでしこ３貯蔵庫にライブラリとして公開しています。](https://n3s.nadesi.com/show/Rough)
 
 　プログラム冒頭で取り込みます。
 
@@ -20,4 +20,4 @@ Rough.jsを使って、なでしこ３でキャンバスに手書きっぽい描
 
 ## テスト
 
-- [色々描画](https://n3s.nadesi.com/widget.php?2019&run=1)
+- [ひととおりの描画](https://n3s.nadesi.com/widget.php?2019&run=1)
