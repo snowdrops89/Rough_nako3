@@ -1,5 +1,5 @@
 # Rough_nako3
-Rough.jsを使って、なでしこ３でキャンバスに手書きっぽい描画をするプラグイン
+[Rough.js](https://roughjs.com/)を使って、なでしこ３でキャンバスに手書きっぽい描画をするNAKO3プラグイン。
 
 ## 使い方
 　[なでしこ３貯蔵庫にライブラリとして公開しています。](https://n3s.nadesi.com/show/Rough)
@@ -21,3 +21,5 @@ Rough.jsを使って、なでしこ３でキャンバスに手書きっぽい描
 ## テスト
 
 - [ひととおりの描画](https://n3s.nadesi.com/widget.php?2019&run=1)
+
+- [手書き風お絵かきアプリ](https://n3s.nadesi.com/widget.php?2020&run=1)
